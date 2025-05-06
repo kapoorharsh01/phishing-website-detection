@@ -28,13 +28,13 @@ The dataset which is used here, is collected from Kaggle website. Here is the li
 
 ## Model Visualization
 1. Random Forest Classifier Confusion Matrix
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-25/Phishing%20Website%20Detection/Images/web2.png)
+![](https://github.com/kapoorharsh01/phishing-website-detection/blob/main/Images/Random%20Forest%20Classifier%20Confusion%20Matrix.png)
 
 2. Decision Tree Classifier Confusion Matrix
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-25/Phishing%20Website%20Detection/Images/web3.png)
+![](https://github.com/kapoorharsh01/phishing-website-detection/blob/main/Images/Decision%20Tree%20Classifier%20Confusion%20Matrix.png)
 
 3. XgBoost Classifier Confusion Matrix
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-25/Phishing%20Website%20Detection/Images/web4.png)
+![](https://github.com/kapoorharsh01/phishing-website-detection/blob/main/Images/XgBoost%20Classifier%20Confusion%20Matrix.png)
 
 ## Model Comparison
 We have deployed nine machine learning algorithms and every algorithm is deployed successfully without any hesitation. We have checked the accuracy of the models based on the accuracy score of each of the models. Now let's take a look at the scores of each models.
