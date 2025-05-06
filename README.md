@@ -64,7 +64,3 @@ Best Fitted Models ranking -
 6. Gradient Boosting
 7. KNN
 8. SVM
-
-Hooray!! The models are deployed successfully!
-
-***********************************************************
